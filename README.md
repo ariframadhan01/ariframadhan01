@@ -1,6 +1,6 @@
 <!-- Dynamic typing effects -->
 <h1 align="center">
-  <a href="https://github.com/tarunbisht-24">
+  <a href="https://github.com/ariframadhan01">
 <img src="src/rama.jpg">
   </a>
 </h1>
