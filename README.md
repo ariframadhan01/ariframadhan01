@@ -13,7 +13,7 @@
 ### Hi there, I'm Muhammad Arif Ramadhani 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-aramadhan594@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aramadhan594@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-M%20Arif%20Ramadhani-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-bisht-38724b201/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-M%20Arif%20Ramadhani-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadariframadhani/ "Connect on LinkedIn")
 [![Whatsapp Badge](https://img.shields.io/badge/-Rama-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6285848365093?text=Hi!)
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
